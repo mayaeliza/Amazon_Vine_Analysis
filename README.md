@@ -47,7 +47,8 @@
     
   - 5 Star Non-Vine Reviews from Helpful Votes %
     - 0.01770078628978882
-    - 1.77% of helpfulnon-Vine reviews were 5 stars.
+    - 1.77% of helpful non-Vine reviews were 5 stars.
 
 ## Summary: 
   #### Is there any positivity bias for reviews in the Vine program. 
+    - There does not appear to be any positivity bias for reviews in the Vine program. Both the percentage of 5 Star Vine Reviews (63%) and the percentage of 5 Star non-Vine Reviews (58%) are similar. To support this, additional analysis comparing the percentage of 5 Star Vine Reviews and 5 Star non-Vine Reviews from a different Amazon Review dataset would be helpful.
